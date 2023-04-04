@@ -10,7 +10,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[vet\_clinic\] ](#-vet_clinic-)
+- [📖 \[vet\_clinic\] ](#-Clinic_db-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,10 +23,10 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [vet_clinic] <a name="about-project"></a>
+# 📖 [Clinic_db] <a name="about-project"></a>
 
 
-**[vet_clinic]** is a an SQL database that store information for a vet clinic.
+**[Clinic_db]** is a an SQL database that store information for a clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,8 +52,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd vet_clinic
-  git clone https://github.com/gsmalik030/vet_clinic.git
+  cd Clinic_db
+  git clone https://github.com/gsmalik030/clinic_database.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -68,11 +68,16 @@ Example commands:
 - Twitter: [@twitterhandle](https://twitter.com/gsmalik030)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghulam-subbhani-4b1281252/)
 
+👤 **Rabecca Nabwire**
+
+- GitHub: [@githubhandle](https://github.com/becky449)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rabecca_nabwire/)
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gsmalik030/vet_clinic/issues).
+Feel free to check the [issues page](https://github.com/gsmalik030/clinic_database/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
